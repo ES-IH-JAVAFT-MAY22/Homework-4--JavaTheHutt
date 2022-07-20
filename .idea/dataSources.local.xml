@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-221.5787.30">
+    <data-source name="proxy-opportunity-service/Hibernate" uuid="4b9b9bff-3a0d-456e-8570-a932ed407fb2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>ironhacker</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="proxy-account-service/Hibernate" uuid="798cf0de-dda4-42a7-b7c1-3912d19b689b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>ironhacker</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="proxy-object-service/Hibernate" uuid="1ce6c8fc-9d10-4018-824d-e079c9e806b3">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <user-name>ironhacker</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
